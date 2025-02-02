@@ -8,7 +8,7 @@
  
   
 <a href="https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q">
- <img alt="ℝ𝕆𝕐 𝕄𝔻" height="300" src="https://files.catbox.moe/bdjmrd.jpg">
+ <img alt="ℝ𝕆𝕐 𝕄𝔻" height="300" src="https://i.ibb.co/ZDMJNVC/mercedes.jpg">
  
   
 </h1> 
