@@ -1,9 +1,9 @@
 {
-  "name":"LUCKY-MD",
+  "name":"ROY-TECH",
   "description":"Best whatsapp bot created by FREDIEZRA",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/7irwqn.jpeg",
-  "repository":"https://github.com/Fred1e/LUCKY_MD",
+  "repository":"https://github.com/LEWISROY1/ROY-TECH",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -47,14 +47,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"LUCKY_MD",
+      "value":"ROY TECH",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/98d70v.mp4",
+      "value":"https://i.ibb.co/ZDMJNVC/mercedes.jpg",
       "required":false
        
      },
@@ -87,14 +87,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "fredietech"
+    "value": "ROY TECH"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255752593977"
+    "value": ""
   },
     "WARN_COUNT":
   {
